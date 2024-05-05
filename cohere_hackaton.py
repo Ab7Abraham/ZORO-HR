@@ -1,15 +1,3 @@
-import subprocess
-
-# List of required packages
-required_packages = ['cohere', 'numpy', 'streamlit_chat', 'PyPDF2','streamlit']
-
-# Function to install packages
-def install_packages(packages):
-    for package in packages:
-        subprocess.run(['pip', 'install', package])
-
-# Install required packages
-install_packages(required_packages)
 import cohere
 import numpy as np
 import streamlit as st
