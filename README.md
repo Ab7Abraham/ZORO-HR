@@ -1,4 +1,4 @@
-# ![ZORO](https://github.com/Ab7Abraham/Zoro-HR/blob/main/logo%20arch.jpg)
+# ![ZORO]([https://github.com/Ab7Abraham/Zoro-HR/blob/main/Architecture.png])
 
 _A chatbot that helps you prepare for behavior and technical interviews by analyzing your resume and job description._
 ## Introduction
