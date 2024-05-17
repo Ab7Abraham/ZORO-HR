@@ -15,7 +15,7 @@ To get started, you will need to upload your resume and job description. The cha
 
 ## Usage
 
-To use the chatbot, simply run [Streamlit](https://cohear.streamlit.app/) and follow the prompts to upload your resume and job description. You can then start chatting with the chatbot to prepare for your interview.
+To use the chatbot, simply run [Streamlit](https://coherehackatonpy-gd5z8caamgkadkdvk5bkc8.streamlit.app/) and follow the prompts to upload your resume and job description. You can then start chatting with the chatbot to prepare for your interview.
 
 ## Future Work
 - Add voice based interaction (most of the work done, just stuck!)
